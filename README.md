@@ -6,14 +6,14 @@ En este proyecto se ha desarrollado una apliación sencilla en el que se pueden 
 
 # Atribuciones
 
-Este aplicativo se ha realizado siguiendo el curso impartido por [!midudev](https://www.youtube.com/@midulive).
+Este aplicativo se ha realizado siguiendo el curso impartido por [midudev](https://www.youtube.com/@midulive).
 
-En enlace al curso/vídeo lo tenéis a continuación en [!YouTube](https://youtu.be/RB5tR_nqUEw?si=5O3xlhztNC0xcUm4).
+En enlace al curso/vídeo lo tenéis a continuación en [YouTube](https://youtu.be/RB5tR_nqUEw?si=5O3xlhztNC0xcUm4).
 
 # Astro Starter Kit: Basics
 
 ```sh
-npm create astro@latest -- --template basics
+pnpm create astro@latest -- --template basics
 ```
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
